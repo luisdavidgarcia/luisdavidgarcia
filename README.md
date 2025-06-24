@@ -87,10 +87,3 @@ _International Symposium on Intelligent Computing and Networking (ISICN 2025)_
 - 📚 Learning **C++23** features and applications to embedded systems 
 - 📘 Deep diving into **compiler internals**, **DMA**, and **RTOS scheduling**
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisdavidgarcia&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisdavidgarcia&layout=compact&theme=radical" />
-</p>
-
