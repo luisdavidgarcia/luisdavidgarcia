@@ -1,4 +1,10 @@
 <h1 align="center">👋 Welcome, I'm Luis David Garcia</h1>
+<p align="center">
+    <a href="https://www.linkedin.com/in/luisgd/">
+        <img height="32" align="left" alt="LinkedIn" src="https://img.icons8.com/?size=512&id=8808&format=png" />
+    </a>
+</p>
+
 <h3 align="center">🚀 Embedded Systems Developer | Modern C++ | Tooling & Real-Time Systems</h3>
 
 <p align="center">
@@ -34,27 +40,6 @@ My work bridges the gap between **embedded firmware** and **infrastructure tooli
 
 ---
 
-## 📌 Featured Projects
-
-### 🔐 [Dockerized DDoS Detection Testbed](https://github.com/your-repo)
-> Simulates real-world attacks using Docker containers on ARM/x86, trains ML models (CNN-LSTM) with TensorFlow, and detects attacks in real time.
-
-<img src="https://user-images.githubusercontent.com/your-img-path/ddos-preview.png" width="600"/>
-
----
-
-### 🛰️ [Zephyr + STM32 Dev Environment](https://github.com/your-repo)
-> Containerized environment for building and flashing Zephyr RTOS firmware to STM32 boards using Python scripts and Makefiles. Includes serial monitor and GDB debugging integration.
-
-<img src="https://user-images.githubusercontent.com/your-img-path/zephyr-stm32-demo.gif" width="600"/>
-
----
-
-### 📦 [Apple/Containers Contributions](https://github.com/containers/containers)
-> Contributing to Apple’s container runtime research. Focus on isolating low-level vulnerabilities and improving embedded container workflows.
-
----
-
 ## 📚 Publications
 
 📄 **“Real-Time DDoS Detection Using a Docker-Based Machine Learning Testbed”**  
@@ -67,16 +52,8 @@ _International Symposium on Intelligent Computing and Networking (ISICN 2025)_
 
 - 🔧 Building a full **Yocto-based embedded Linux image**
 - 📦 **Apple/Containers** runtime contribution & runtime isolation strategies
-- 📡 Improving cross-platform **GPS/IMU firmware** using Boost and C++20 ranges
+- 📚 Learning **C++23** features and applications to embedded systems 
 - 📘 Deep diving into **compiler internals**, **DMA**, and **RTOS scheduling**
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🧪 [Portfolio](https://your-site.dev)
-- ✉️ Email: luisdavidgarcia@protonmail.com
 
 ---
 
