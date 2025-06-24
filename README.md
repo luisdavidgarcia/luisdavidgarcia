@@ -1,8 +1,14 @@
 <h1 align="center">👋 Welcome, I'm Luis David Garcia</h1>
 <p align="center">
-    <a href="https://www.linkedin.com/in/luisgd/">
-        <img height="32" align="left" alt="LinkedIn" src="https://img.icons8.com/?size=512&id=8808&format=png" />
-    </a>
+  <a href="https://www.linkedin.com/in/luisgd/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@DonLDG/">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:luisdavidgarcia@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-%2312100E.svg?&style=for-the-badge&logo=protonmail&logoColor=#6D4AFF">
+  </a>&nbsp;&nbsp;
 </p>
 
 <h3 align="center">🚀 Embedded Systems Developer | Modern C++ | Tooling & Real-Time Systems</h3>
@@ -33,10 +39,36 @@ My work bridges the gap between **embedded firmware** and **infrastructure tooli
 
 ## 🔨 Technologies & Tools
 
-| Language | Tooling & Infra | Hardware |
-|----------|------------------|----------|
-| `C++17/20`, C, Python, Bash | Docker, CMake, Make, GDB, GitHub Actions, Azure DevOps | STM32, Raspberry Pi, Zynq UltraScale+, Vivado, Zephyr |
-| SQL, FastAPI, Spacy         | Valgrind, Wireshark, Scapy, QEMU                         | Logic Analyzers, Oscilloscopes, UART/SPI/I2C interfaces |
+### 💻 Languages
+![C++17/20](https://img.shields.io/badge/C++17%2F20-blue?logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-grey?logo=gnubash&logoColor=white)
+
+---
+
+### ⚙️ Tooling & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
+![Make](https://img.shields.io/badge/Makefile-darkgreen?logo=gnu&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-lightgrey?logo=gnu&logoColor=white)
+![Valgrind](https://img.shields.io/badge/Valgrind-purple)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)
+
+---
+
+### 🔧 Hardware & Embedded
+![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)
+![Zephyr RTOS](https://img.shields.io/badge/Zephyr%20RTOS-8253c1?logo=zephyrproject&logoColor=white)
+![AMD](https://img.shields.io/badge/Zynq%20%7C%20Vivado-ED1C24?logo=amd&logoColor=white&logoSize=auto)
+![UART](https://img.shields.io/badge/UART-grey)
+![SPI](https://img.shields.io/badge/SPI-grey)
+![I2C](https://img.shields.io/badge/I2C-grey)
+![Oscilloscope](https://img.shields.io/badge/Oscilloscope-bluegrey)
+![Logic Analyzer](https://img.shields.io/badge/Logic%20Analyzer-bluegrey)
 
 ---
 
