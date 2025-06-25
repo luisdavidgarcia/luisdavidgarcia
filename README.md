@@ -76,7 +76,7 @@ My work bridges the gap between **embedded firmware** and **infrastructure tooli
 ![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white&style=for-the-badge)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white&style=for-the-badge)
 ![Zephyr RTOS](https://img.shields.io/badge/Zephyr%20RTOS-8253c1?logo=zephyrproject&logoColor=white&style=for-the-badge)
-![Zynq / Vivado](https://img.shields.io/badge/Zynq%20%7C%20Vivado-ED1C24?logo=amd&logoColor=white&style=for-the-badge)
+![Zynq / Vivado](https://img.shields.io/badge/Zynq%20%7C%20Vivado-ED1C24?logo=amd&logoColor=white&style=for-the-badge&logoSize=auto)
 ![UART](https://img.shields.io/badge/UART-607D8B?style=for-the-badge)
 ![SPI](https://img.shields.io/badge/SPI-607D8B?style=for-the-badge)
 ![I2C](https://img.shields.io/badge/I2C-607D8B?style=for-the-badge)
