@@ -40,22 +40,14 @@ My work bridges the gap between **embedded firmware** and **infrastructure tooli
 
 ## 🔨 Technologies & Tools
 
-<details>
-<summary>💻 Languages</summary>
-
-<br>
+### 💻 Languages
 
 ![C++17/20](https://img.shields.io/badge/C++17%2F20-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 
-</details>
-
-<details>
-<summary>⚙️ Tooling & Infrastructure</summary>
-
-<br>
+### ⚙️ Tooling & Infrastructure
 
 ![Linux](https://img.shields.io/badge/Linux-455A64?logo=linux&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
@@ -66,12 +58,7 @@ My work bridges the gap between **embedded firmware** and **infrastructure tooli
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white&style=for-the-badge)
 
-</details>
-
-<details>
-<summary>🔧 Hardware & Embedded</summary>
-
-<br>
+### 🔧 Hardware & Embedded
 
 ![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white&style=for-the-badge)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white&style=for-the-badge)
@@ -82,8 +69,6 @@ My work bridges the gap between **embedded firmware** and **infrastructure tooli
 ![I2C](https://img.shields.io/badge/I2C-607D8B?style=for-the-badge)
 ![Oscilloscope](https://img.shields.io/badge/Oscilloscope-607D8B?style=for-the-badge)
 ![Logic Analyzer](https://img.shields.io/badge/Logic%20Analyzer-607D8B?style=for-the-badge)
-
-</details>
 
 ---
 
