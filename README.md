@@ -6,8 +6,8 @@
   <a href="https://www.youtube.com/@DonLDG/">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:luisdavidgarcia@protonmail.com">
-    <img src="https://img.shields.io/badge/Email-%2312100E.svg?&style=for-the-badge&logo=protonmail&logoColor=#6D4AFF">
+  <a href="mailto:luisdgarcia.mi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">
   </a>&nbsp;&nbsp;
 </p>
 
