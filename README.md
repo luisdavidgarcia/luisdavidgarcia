@@ -14,7 +14,7 @@
 <h3 align="center">🚀 Embedded Systems Developer | Modern C++ | Tooling & Real-Time Systems</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++17%2F20-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++20%2F23-00599C?logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Zephyr-RTOS-purple?logo=linux" />
   <img src="https://img.shields.io/badge/Embedded%20Linux-ARM-blue?logo=linux" />
   <img src="https://img.shields.io/badge/Docker-Automation-blue?logo=docker&logoColor=blue" />
@@ -42,7 +42,7 @@ My work bridges the gap between **embedded firmware** and **infrastructure tooli
 
 ### 💻 Languages
 
-![C++17/20](https://img.shields.io/badge/C++17%2F20-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![C++20/23](https://img.shields.io/badge/C++20%2F23-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
