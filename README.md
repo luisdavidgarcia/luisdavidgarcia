@@ -26,7 +26,7 @@
 
 ## 🧠 About Me
 
-I'm an Embedded Systems Developer with a passion for building **robust, efficient software** in **modern C++** for **resource-constrained platforms**. I specialize in:
+I'm an Embedded Systems Developer with a passion for building robust, efficient software in modern C++ for resource-constrained platforms. I specialize in:
 
 - 🖥️ **Firmware & drivers** for ARM Cortex-M, STM32, and Zynq SoCs
 - 🧪 **Containerized build/test environments** using Docker and QEMU
@@ -34,7 +34,7 @@ I'm an Embedded Systems Developer with a passion for building **robust, efficien
 - 🔧 Real-time and low-level systems using **Zephyr RTOS**, **Linux**, and **bare metal**
 - 🧵 **Multithreading**, **protocol stacks**, and **sensor interfaces (I2C, UART, SPI)**
 
-My work bridges the gap between **embedded firmware** and **infrastructure tooling**, with a strong belief in **reproducibility, memory safety, and performance-first design**.
+My work bridges the gap between embedded firmware and infrastructure tooling, with a strong belief in reproducibility, memory safety, and performance-first design.
 
 ---
 
