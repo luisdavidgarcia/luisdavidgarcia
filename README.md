@@ -1,15 +1,4 @@
 <h1 align="center">👋 Welcome, I'm Luis David Garcia</h1>
-<p align="center">
-  <a href="https://www.linkedin.com/in/luisgd/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@DonLDG/">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:luisdgarcia.mi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">
-  </a>&nbsp;&nbsp;
-</p>
 
 <h3 align="center">🚀 Embedded Systems Developer | Modern C++ | Tooling & Real-Time Systems</h3>
 
